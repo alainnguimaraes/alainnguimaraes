@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Deep Learning Algorithms (CNN, RNN, GAN, NLP), Autonomous Self Driving Cars and Autonomous Aerial Vehicles
 - 💞️ I’m looking to collaborate on any equivalent areas or for QT/C++/C/VHDL/VERILOG programming tasks
 - 📫 How to reach me email: alain.guimaraes@usp.br
-
+- Linkedin:<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <!---
 alainnguimaraes/alainnguimaraes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
